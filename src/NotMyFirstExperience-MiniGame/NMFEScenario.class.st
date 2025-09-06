@@ -1,3 +1,11 @@
+"
+Choose your scenario within my subclasses and do this on the Playground :
+
+```Smalltalk
+YourNMFEScenarion execute
+```
+
+"
 Class {
 	#name : 'NMFEScenario',
 	#superclass : 'Object',
